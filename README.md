@@ -15,4 +15,4 @@ Computational graphics gave me a working understanding of transformations, coord
 
 
 
-Note: GLFW and glm files need to be placed in library.
+Note: GLFW and glm files need to be placed in the libraries folder.
