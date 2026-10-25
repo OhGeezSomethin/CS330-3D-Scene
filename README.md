@@ -11,3 +11,8 @@ I developed the scene incrementally and tested after each change. Each object fo
 ## Goals
 
 Computational graphics gave me a working understanding of transformations, coordinate systems, cameras, and lighting. These ideas carry into my hobbies such as game development and simulation.
+
+
+
+
+Note: GLFW and glm files need to be placed in library.
